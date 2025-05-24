@@ -38,10 +38,15 @@ Este sistema foi desenvolvido como parte da disciplina de Algoritmos e Estrutura
 
 ## Estrutura do Projeto
 ├── main.c # Arquivo principal e menu do sistema
+
 ├── tarefa.c/.h # Struct e funções relacionadas às tarefas
+
 ├── fila.c/.h # Implementação da fila de prioridade
+
 ├── pilha.c/.h # Implementação da pilha de backup
+
 ├── arvore_avl.c/.h # Estrutura da árvore AVL
+
 ├── ordenacao.c/.h # Funções de ordenação e busca
 
 
